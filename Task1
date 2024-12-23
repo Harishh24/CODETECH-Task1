@@ -1,0 +1,25 @@
+print("\nSIMPLE CALCULATOR\n ")
+
+num1 = float(input("Enter num 1: "))
+num2 = float(input("Enter num 2: "))
+
+operation = input("Enter an operation (+ , - , * , /): ")
+
+if operation == "+":
+    result= num1 + num2
+    print(f"\nThe result of Addition is: {round(result,3)}")
+elif operation == "-" :
+    result= num1 - num2
+    print(f"\nThe result of Subtraction is: {round(result,3)}")
+elif operation == "*" :
+    result= num1 * num2
+    print(f"\nThe result of Multiplication is: {round(result,3)}")
+elif operation == "/" :
+    if num2 !=0:
+        result= num1 / num2
+        print(f"\nThe result of Division is: {round(result,3)}")
+    else :
+        print("\nDivision by zero is not allowed..!")
+else :
+    print(f"\n{operation} is not a valid operation..!")
+
