@@ -26,3 +26,11 @@ The program prompts the user to input two numbers and an operation, then calcula
    - Use conditional statements to determine and execute the appropriate arithmetic operation based on user input.
 4. **Handle Edge Cases Gracefully**
    - Include basic error handling to manage situations such as division by zero, ensuring the program remains robust and user-friendly.
+  
+![mul](https://github.com/user-attachments/assets/2ab13f9e-c088-4fa0-b2b9-f65457b5363e)
+![sub](https://github.com/user-attachments/assets/a459b575-a276-4061-b857-ea49c4444f6c)
+![add](https://github.com/user-attachments/assets/a93081c2-8f5c-474f-a37d-4ea52b2d6a81)
+![div](https://github.com/user-attachments/assets/5010db75-f98d-49dc-897a-593656dbea3b)
+
+
+
